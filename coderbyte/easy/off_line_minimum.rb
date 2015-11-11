@@ -15,5 +15,3 @@ def OffLineMinimum(strArr)
 		return result_string.chomp(',')
          
 end
-
-def 
